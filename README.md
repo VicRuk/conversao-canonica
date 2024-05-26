@@ -1,4 +1,4 @@
-# Simplificação
+# Conversão Canônica
 Um programa python que converta uma sentença original em uma sentença com apenas conectivos canônicos, sem simplificá-la. <br>
 Regras:<br>
 1. O programa deve ser capaz de converter qualquer sentença de qualquer tamanho<br>
