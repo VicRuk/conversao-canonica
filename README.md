@@ -8,5 +8,5 @@ Regras:<br>
 <h1>Exemplo</h1>
 Entrada do programa:<br>
 <b>P -> q -> p</b><br>
-Saida:
+Saida:<br>
 <b>~ (~ p V q) V p</b>
